@@ -17,6 +17,8 @@ To contribute to the project,
     - `$ git clone https://github.com/ivanrj7j/Pi.git`
 - Navigate to the folder
     - `$ cd Pi`
+- Create a new Folder named [Method_Name] [Your_Name]
+    - `$ mkdir [Method_Name]_by_[Your_Name]`
 - Implement your code.
     - Include a `README.md` file if you can in the folder.
     - Try to explain the code and the logic behind the approximation if you can
