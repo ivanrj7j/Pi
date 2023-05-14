@@ -14,7 +14,7 @@ To contribute to the project,
     - <img src="instruction images/fork.png" alt="fork">
 
 - Clone the repository
-    - `$ git clone https://github.com/ivanrj7j/Pi.git`
+    - `$ git clone https://github.com/<your_user_name>/Pi.git`
 - Navigate to the folder
     - `$ cd Pi`
 - Create a new Folder named [Method_Name] [Your_Name]
