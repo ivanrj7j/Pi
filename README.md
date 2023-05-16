@@ -7,6 +7,8 @@ Image Provided by [Free SVG](https://freesvg.org/pi-numeral-silhouette)
 ## About Project
 This is a collection of projects that anyone can contribute to, here you can submit any way of approximating Pi.
 
+The goal of this repository is not to find the value of pi to 100 billion digits(it would be great if someone did that tho). I am aiming for the community to come together and learn together and share creative ways for approximating pi
+
 ## How to contribute?
 To contribute to the project,
 
